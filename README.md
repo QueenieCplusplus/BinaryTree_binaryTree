@@ -8,6 +8,33 @@
                        chid     sibling
                       (left)    (right)
 
+tree
+
+                          parent
+                         
+                            |
+                            
+                          child
+                          
+also a tree
+
+                          parent
+                          
+                          /     \
+                       
+                       child     child
+
+
+binary tree
+
+                         parent
+                         
+                         /
+                         
+                      child
+                      
+              
+
 
 # those properties it has
 
