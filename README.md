@@ -6,7 +6,7 @@
 
 # those properties it has
 
-      level
+      level (the bigger the level is, the worse the performance it takes)
 
       leaf nodes numbers
 
