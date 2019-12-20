@@ -9,6 +9,15 @@ left child right siblings
                           /      
                        chid  __ sibling
                       (left)    (right)
+                      
+                      
+LeftChid | data | RightChild
+
+                            data
+                            
+                          /      \
+                          
+                    LeftChild   RightChild
 
 tree
 
