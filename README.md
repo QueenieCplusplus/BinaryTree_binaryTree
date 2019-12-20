@@ -3,9 +3,11 @@
 
 # this Data Type
 
+left child right siblings
+
                             root
-                          /      \
-                       chid     sibling
+                          /      
+                       chid  __ sibling
                       (left)    (right)
 
 tree
