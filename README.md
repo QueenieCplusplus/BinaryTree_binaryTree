@@ -3,6 +3,11 @@
 
 # this Data Type
 
+                            root
+                          /      \
+                       chid     sibling
+                      (left)    (right)
+
 
 # those properties it has
 
